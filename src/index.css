@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-roboto: "Roboto", system-ui;
+  --color-dark-purple: #1c1b33;
+  --color-light-purple: #2e335a;
+  --color-weather-purple: #5936b4;
+  --color-weather-dark-purple: #362a84;
+}
